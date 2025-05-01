@@ -1,0 +1,28 @@
+# Arduino temporary files
+*.ino.*
+*.hex
+*.elf
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# 3D design software temp files
+*.autosave
+*.swp
+
+# Python / script cache (if used later)
+__pycache__/
+*.py[cod]
+
+# Media exports
+*.mp4
+*.mov
